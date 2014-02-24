@@ -1,0 +1,4 @@
+2014-02-23 14:50:37.209 hello[1622:507] hello, world!
+2014-02-23 14:50:37.210 hello[1622:507] hello, everyone!
+Substring: every
+Length: 5
